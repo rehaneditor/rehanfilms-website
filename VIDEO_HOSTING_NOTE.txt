@@ -1,0 +1,7 @@
+REHAN FILMS WEBSITE - VIDEO HOSTING NOTE
+
+This GitHub package intentionally excludes the MP4 files because the GitHub web uploader rejects files over its browser upload limit.
+
+The MP4 files are in the separate REHAN_FILMS_VIDEOS package.
+
+IMPORTANT: Do not connect this GitHub repo to production Vercel until the MP4 files have been uploaded to a video/CDN host and the video URLs in index.html have been changed to those hosted URLs. Otherwise the video player will have no video files to load.
